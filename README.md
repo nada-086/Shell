@@ -30,5 +30,6 @@ This program is implemented as an application on some operating systems concepts
    - Expression Evaluation using the export command
       ![Expression Evaluation](/Screenshots/expression-evaluation.png)
       ![Expression Evaluation 2](/Screenshots/expression-evaluation2.png)
+      ![Expression Evaluation 3](/Screenshots/expression-evaluation3.png)
   - when a child process terminates its parent's id is added to a log file.
     ![Log file](/Screenshots/log.png)
