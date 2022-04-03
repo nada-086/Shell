@@ -14,9 +14,9 @@ This program is implemented as an application on some operating systems concepts
     ![Run](/Screenshots/run.png)
 ## Features
   The program supports the following commands
-    - Commands with no arguments such as: exit, ls, rm...
+    - Commands with no arguments such as: exit, ls, rm...etc
     ![General Commands](/Screenshots/commands.png)
-    - Commands with single or multiple arguments such as ls -l, ls -a -h -l,...
+    - Commands with single or multiple arguments such as ls -l, ls -a -h -l,...etc
     ![Single and Multiple Commands](/Screenshots/arguments.png)
     - Running applications either in the foreground or the background.
     - Built-in Commands which are cd and echo.
@@ -32,4 +32,3 @@ This program is implemented as an application on some operating systems concepts
       ![Expression Evaluation 2](/Screenshots/expression-evaluation2.png)
     - when a child process terminates its parent's id is added to a log file.
     ![Log file](/Screenshots/log.png)
-
