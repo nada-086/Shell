@@ -26,7 +26,7 @@ This program is implemented as an application on some operating systems concepts
     - cd ..
     - cd absolute_path
     - cd relative_path
-      ![cd Command](/Screenshots/cd.png)
+    ![cd Command](/Screenshots/cd.png)
    - Expression Evaluation using the export command
       ![Expression Evaluation](/Screenshots/expression-evaluation.png)
       ![Expression Evaluation 2](/Screenshots/expression-evaluation2.png)
