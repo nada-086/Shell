@@ -11,7 +11,6 @@ This program is implemented as an application on some operating systems concepts
      make
     ./shell
     ```
-    ![Run](/Screenshots/run.png)
 ## Features
 ### The program supports the following commands
   - Commands with no arguments such as: exit, ls, rm...etc
